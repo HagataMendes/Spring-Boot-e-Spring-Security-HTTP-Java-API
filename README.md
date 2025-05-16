@@ -5,6 +5,9 @@ Voll.med é uma clínica médica fictícia que precisa de um aplicativo para ges
 Enquanto um time de desenvolvimento será responsável pelo aplicativo mobile, o nosso será responsável pelo desenvolvimento da API Rest desse projeto.
 
 ---
+- Padronize os retornos dos controladores da API Utilize os códigos HTTP corretamente Adicione o módulo Spring Security no projeto Implemente um mecanismo de autenticação na API Realize o controle de acesso na API Utilize Json Web Token para controlar o acesso na API
+
+![Projeto](https://github.com/HagataMendes/Spring-Boot-e-Spring-Security-HTTP-Java-API/blob/main/Captura%20de%20tela%202025-05-16%20102617.png)
 
 ## ⚙️ Funcionalidades
 
